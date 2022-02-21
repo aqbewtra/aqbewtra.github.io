@@ -116,10 +116,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  links:
-    - label: "Medium"
-      icon: "medium.jpg"
-      url: "https://aqbewtra.medium.com/"
+  # links:
+  #   - label: "Medium"
+  #     icon: "medium.jpg"
+  #     url: "https://aqbewtra.medium.com/"
 
 
 # Reading Files
