@@ -104,7 +104,6 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/avi-bewtra/"
-  Medium           : "https://aqbewtra.medium.com/"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -117,6 +116,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  links:
+    - label: "Medium"
+      icon: "medium.jpg"
+      url: "https://aqbewtra.medium.com/"
 
 
 # Reading Files
