@@ -5,6 +5,10 @@ permalink: /writing/
 author_profile: true
 ---
 
+## V7 Labs
+Working freelance, I published a series of theoretical machine learning blog posts for V7 Labs.
+* [The Ultimate Guide to Semi-supervised Learning](https://www.v7labs.com/blog/semi-supervised-learning-guide)
+
 ## The Death and Life of a Data Engine
 Discussion series on [my Medium page](https://aqbewtra.medium.com/). Aggregating and labelling images of recyclables for a startup competition. Pipeline strategy modeled after Tesla's Data Engine as described by Andrej Karpathy.
 * [Vol. I](https://aqbewtra.medium.com/the-death-and-life-of-a-data-engine-volume-i-51fa7fe60ec5) - Intro, Problem Statement, ML Strategy and Data-centric AI
