@@ -10,7 +10,7 @@ Working freelance, I published a series of theoretical machine learning blog pos
 * 3/29/2022 - [The Ultimate Guide to Semi-supervised Learning](https://www.v7labs.com/blog/semi-supervised-learning-guide)
 
 ## [The Death and Life of a Data Engine](https://aqbewtra.medium.com/list/the-death-and-life-of-a-data-engine-67ff2441b1cd)
-Discussion series on [my Medium page](https://aqbewtra.medium.com/). Aggregating and labelling images of recyclables for a startup competition. Pipeline strategy modeled after Tesla's Data Engine as described by Andrej Karpathy.
+Discussion series on [my Medium page](https://aqbewtra.medium.com/).
 * 10/14/2021 - [Vol. III](https://aqbewtra.medium.com/the-death-and-life-of-a-data-engine-vol-iii-924cf767ec4c) - Results and Future Work
 * 8/6/2021 - [Vol. II](https://aqbewtra.medium.com/the-death-and-life-of-a-data-engine-vol-ii-3339ee1166fb) - Technical Discussion
 * 6/18/2021 - [Vol. I](https://aqbewtra.medium.com/the-death-and-life-of-a-data-engine-volume-i-51fa7fe60ec5) - Intro, Problem Statement, ML Strategy and Data-centric AI
