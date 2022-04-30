@@ -7,7 +7,11 @@ author_profile: true
 
 ## [V7 Labs](https://www.v7labs.com/)
 Working freelance, I published a series of theoretical machine learning blog posts for V7 Labs.
+* 4/2022 - (Ongoing) - V7 AI Newsletter, including industry news, research highlights, company updates, and insights from experts in the field
 * 3/29/2022 - [The Ultimate Guide to Semi-supervised Learning](https://www.v7labs.com/blog/semi-supervised-learning-guide)
+
+## Misc.
+* 4/29/2022 - [Notes on 'Lord Jim'](https://aqbewtra.medium.com/notes-on-lord-jim-e2b726752578)
 
 ## [The Death and Life of a Data Engine](https://aqbewtra.medium.com/list/the-death-and-life-of-a-data-engine-67ff2441b1cd)
 Discussion series on [my Medium page](https://aqbewtra.medium.com/).
