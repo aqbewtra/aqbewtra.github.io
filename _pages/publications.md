@@ -8,7 +8,7 @@ author_profile: true
 ## V7 Labs
 Working freelance, I published a series of theoretical machine learning blog posts for [V7 Labs](https://www.v7labs.com/).
 * (Ongoing) - The World of AI is V7's monthly AI newsletter, including industry news, research highlights, company updates, and insights from experts in the field.
-    - [4/2022](https://hello.v7labs.com/the-world-of-ai-your-monthly-update?ecid=&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_3EU5PvzPbrWNP_Crzzey4Ne0iunvmgQjyLacvyGBPn-nMKEdU--arn7vU-LztjDD-TMKE)
+    - [4/2022](https://hello.v7labs.com/the-world-of-ai-your-monthly-update)
 * 3/29/2022 - [The Ultimate Guide to Semi-supervised Learning](https://www.v7labs.com/blog/semi-supervised-learning-guide)
 
 ## Misc.
