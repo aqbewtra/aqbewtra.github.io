@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ## V7 Labs
-Writing a series of newsletters and theoretical machine learning blog posts for [V7 Labs](https://www.v7labs.com/).
-* (Ongoing) - [This Month in AI](https://www.v7labs.com/this-month-in-ai-subscribe) is V7's monthly AI newsletter
+A series of newsletters and theoretical machine learning blog posts for [V7 Labs](https://www.v7labs.com/).
+* [This Month in AI](https://www.v7labs.com/this-month-in-ai-subscribe) is V7's monthly AI newsletter
     - [June, 2022](https://hello.v7labs.com/v7-goes-to-cvpr-and-launches-an-edu-plan-microsoft-researchers-propose-xtc-google-releases-an-open-source-dataset-of-photo-realistic-3d-object-models)
     - [May, 2022](https://hello.v7labs.com/hey-contact.firstname-heres-your-monthly-ai-update)
     - [April, 2022](https://hello.v7labs.com/the-world-of-ai-your-monthly-update)
