@@ -13,10 +13,6 @@ Writing a series of newsletters and theoretical machine learning blog posts for 
     - [May, 2022](https://hello.v7labs.com/hey-contact.firstname-heres-your-monthly-ai-update)
     - [April, 2022](https://hello.v7labs.com/the-world-of-ai-your-monthly-update)
 
-
-## Misc.
-* 4/29/2022 - [Notes on 'Lord Jim'](https://aqbewtra.medium.com/notes-on-lord-jim-e2b726752578)
-
 ## The Death and Life of a Data Engine
 Discussion series on [my Medium page](https://aqbewtra.medium.com/).
 * 6/18/2021 - [Vol. I](https://aqbewtra.medium.com/the-death-and-life-of-a-data-engine-volume-i-51fa7fe60ec5) - Intro, Problem Statement, ML Strategy and Data-centric AI
@@ -31,3 +27,6 @@ Selected pieces from my time as a reporter at Penn State's [The Daily Collegian]
 * 11/6/2021 - [Penn State receives up to $39 million to improve prediction, mitigation of crop health](https://www.collegian.psu.edu/news/campus/penn-state-receives-up-to-39-million-to-improve-prediction-mitigation-of-crop-health/article_1ccd871c-3f31-11ec-b0bf-63108adaa961.html)
 * 11/12/2021 - [Penn State’s Rock Ethics Institute hosts panel discussion on 'Ethics of Policing'](https://www.collegian.psu.edu/news/campus/penn-state-s-rock-ethics-institute-hosts-panel-discussion-on-ethics-of-policing/article_1000d7d2-4404-11ec-b987-df0e58357d13.html)
 * 12/8/2021 - [CATA holds forum, collects public input State College service changes due to staffing shortages](https://www.collegian.psu.edu/news/borough/cata-holds-forum-collects-public-input-state-college-service-changes-due-to-staffing-shortages/article_3c695c40-5845-11ec-9f17-0baa070b4854.html)
+
+## Misc.
+* 4/29/2022 - [Notes on 'Lord Jim'](https://aqbewtra.medium.com/notes-on-lord-jim-e2b726752578)
