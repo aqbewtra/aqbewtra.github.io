@@ -9,9 +9,9 @@ author_profile: true
 Writing a series of newsletters and theoretical machine learning blog posts for [V7 Labs](https://www.v7labs.com/), an AI startup based in London, UK.
 * 3/29/2022 - [The Ultimate Guide to Semi-supervised Learning](https://www.v7labs.com/blog/semi-supervised-learning-guide)
 * [This Month in AI](https://www.v7labs.com/this-month-in-ai-subscribe) is V7's monthly AI newsletter
-    - [June, 2022](https://hello.v7labs.com/v7-goes-to-cvpr-and-launches-an-edu-plan-microsoft-researchers-propose-xtc-google-releases-an-open-source-dataset-of-photo-realistic-3d-object-models)
-    - [May, 2022](https://hello.v7labs.com/hey-contact.firstname-heres-your-monthly-ai-update)
     - [April, 2022](https://hello.v7labs.com/the-world-of-ai-your-monthly-update)
+    - [May, 2022](https://hello.v7labs.com/hey-contact.firstname-heres-your-monthly-ai-update)
+    - [June, 2022](https://hello.v7labs.com/v7-goes-to-cvpr-and-launches-an-edu-plan-microsoft-researchers-propose-xtc-google-releases-an-open-source-dataset-of-photo-realistic-3d-object-models)
 
 ## The Death and Life of a Data Engine
 Discussion series on [my Medium page](https://aqbewtra.medium.com/).
