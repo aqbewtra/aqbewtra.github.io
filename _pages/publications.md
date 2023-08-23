@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## V7 Labs
-Writing a series of newsletters and theoretical machine learning blog posts for [V7 Labs](https://www.v7labs.com/), an AI startup based in London, UK.
+A series of newsletters and theoretical machine learning blog posts for [V7 Labs](https://www.v7labs.com/), an AI startup based in London, UK.
 * 3/29/2022 - [The Ultimate Guide to Semi-supervised Learning](https://www.v7labs.com/blog/semi-supervised-learning-guide)
 * [This Month in AI](https://www.v7labs.com/this-month-in-ai-subscribe) is V7's monthly AI newsletter
     - [April, 2022](https://hello.v7labs.com/the-world-of-ai-your-monthly-update)
