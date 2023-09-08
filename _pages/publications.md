@@ -29,4 +29,6 @@ Selected pieces from my time as a reporter at Penn State's [The Daily Collegian]
 * 12/8/2021 - [CATA holds forum, collects public input State College service changes due to staffing shortages](https://www.collegian.psu.edu/news/borough/cata-holds-forum-collects-public-input-state-college-service-changes-due-to-staffing-shortages/article_3c695c40-5845-11ec-9f17-0baa070b4854.html)
 
 ## Misc.
+* 5/2/2023 - [A Survey of Query Strategies for Active Learning](http://aqbewtra.github.io/files/query-strategies.pdf)
+* 4/18/2023 - [A Further Investigation of the Forward Forward Algorithm](http://aqbewtra.github.io/files/FF.pdf)
 * 4/29/2022 - [Notes on 'Lord Jim'](https://aqbewtra.medium.com/notes-on-lord-jim-e2b726752578)
