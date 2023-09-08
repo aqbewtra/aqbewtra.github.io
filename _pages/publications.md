@@ -30,5 +30,5 @@ Selected pieces from my time as a reporter at Penn State's [The Daily Collegian]
 
 ## Misc.
 * 5/2/2023 - [A Survey of Query Strategies for Active Learning](http://aqbewtra.github.io/files/query-strategies.pdf)
-* 4/18/2023 - [A Further Investigation of the Forward Forward Algorithm](http://aqbewtra.github.io/files/FF.pdf)
+* 4/18/2023 - [A Further Investigation of the Forward-Forward Algorithm](http://aqbewtra.github.io/files/FF.pdf)
 * 4/29/2022 - [Notes on 'Lord Jim'](https://aqbewtra.medium.com/notes-on-lord-jim-e2b726752578)
