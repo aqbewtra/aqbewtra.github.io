@@ -5,6 +5,10 @@ permalink: /writing/
 author_profile: true
 ---
 
+## Lakera
+Technical content for [Lakera](https://www.lakera.ai/), an AI safety and security startup based in Zurich, Switzerland.
+* 9/15/2023 - [An Introduction to Large Language Models]()
+
 ## V7 Labs
 A series of newsletters and theoretical machine learning blog posts for [V7 Labs](https://www.v7labs.com/), an AI startup based in London, UK.
 * 3/29/2022 - [The Ultimate Guide to Semi-supervised Learning](https://www.v7labs.com/blog/semi-supervised-learning-guide)
