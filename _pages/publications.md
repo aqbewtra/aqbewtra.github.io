@@ -7,7 +7,7 @@ author_profile: true
 
 ## Lakera
 Technical content for [Lakera](https://www.lakera.ai/), an AI safety and security startup based in Zurich, Switzerland.
-* 9/15/2023 - [An Introduction to Large Language Models]()
+* 9/17/2023 - [An Introduction to Large Language Models](https://www.lakera.ai/insights/large-language-models-guide)
 
 ## V7 Labs
 A series of newsletters and theoretical machine learning blog posts for [V7 Labs](https://www.v7labs.com/), an AI startup based in London, UK.
